@@ -11,3 +11,14 @@ ArrayList:
 - Farklı tipler tutabilir.
 - Arraya göre daha az performanslıdır.
 - size(), contains(), add() get() gibi metodlarla çalışır.
+
+HashMap:
+- key value yapısındadır.
+- eklemek için put kullanılır.
+- key ler unique dir.
+- sıra yoktur, index tutmazlar.
+
+Set:
+- değerler unique, index tutmazlar
+
+Iterator ile index olmayan yapılarda dönülür.

@@ -2,7 +2,9 @@ package tr.com.testinium.secondday;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class Collections {
 
@@ -44,6 +46,12 @@ public class Collections {
         System.out.println(liste.size());
         liste.remove(1);
         liste.get(0);
+
+        // HASHMAP
+
+        Map<Integer, String> map = new HashMap<>();
+        map.put(1,"Ali");
+        map.put(2,"M");
 
 
     }
