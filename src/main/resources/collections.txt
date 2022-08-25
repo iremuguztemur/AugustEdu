@@ -1,0 +1,13 @@
+Arrays:
+- En başta büyüklüğü belirlenir.
+- Hem primitive hem wrapper type objeler tutulabilir.
+- Sadece tek tip tutabilir.(int, String)
+- Çok boyurlu olabilirler(Matris gibi)
+- uzunluğuna .length değeri ile erişilir.
+
+ArrayList:
+- Büyüklüğü değişebilir.
+- Primitive tip tutmaz.
+- Farklı tipler tutabilir.
+- Arraya göre daha az performanslıdır.
+- size(), contains(), add() get() gibi metodlarla çalışır.
