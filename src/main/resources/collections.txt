@@ -2,7 +2,7 @@ Arrays:
 - En başta büyüklüğü belirlenir.
 - Hem primitive hem wrapper type objeler tutulabilir.
 - Sadece tek tip tutabilir.(int, String)
-- Çok boyurlu olabilirler(Matris gibi)
+- Çok boyutlu olabilirler(Matris gibi)
 - uzunluğuna .length değeri ile erişilir.
 
 ArrayList:
@@ -14,7 +14,7 @@ ArrayList:
 
 HashMap:
 - key value yapısındadır.
-- eklemek için put kullanılır.
+- eklemek için put() kullanılır.
 - key ler unique dir.
 - sıra yoktur, index tutmazlar.
 

@@ -1,0 +1,27 @@
+ENCAPSULATION
+ - field ve metodlarımızın erişimlerini kontrollü bir
+ biçimde açarız.
+ - getter-setter'lar kullanılır.
+ - 4 adet access modifier kullanılır
+ (public, protected, private, default)
+
+INHERITANCE
+- extends keyword'ü ile alt-üst sınıf ilişkisi kurulur.
+- Kod tekrarının önüne geçeriz.
+
+POLYMORPHISM
+- Bir metodun farklı sınıflarda farklı şekillerde implement edilmesini sağlarız.
+Böylece o metodu çağırdığımız yerde sınıf farklılıklarını umursamayız.
+
+ABSTRACTION
+- interface ve abstract class'lar yoluyla yapılır.
+
+Interface ler
+- implementasyonu gizlemeye yarar.
+- dolu metodlar yazılamaz.
+- implementasyonları vardır.
+
+Abstract class lar
+- nesne oluşturulamaz.
+- abstract ve normal metod bulundurabilirler
+- Alt sınıfları vardır.

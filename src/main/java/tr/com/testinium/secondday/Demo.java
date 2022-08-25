@@ -6,5 +6,9 @@ public class Demo {
         developer.setAd("Ebubekir");
         developer.setDevTool("İntellij");
         developer.konus();
+
+        AltSinif altSinif = new AltSinif();
+        altSinif.absKonus();
+
     }
 }
